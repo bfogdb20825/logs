@@ -1,0 +1,6 @@
+payload:
+  - 'connect.emby.media'
+  - 'app.emby.media'
+  - 'tv.emby.media'
+  - '.emby.media'
+  - 'mb3admin.com'
